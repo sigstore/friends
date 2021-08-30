@@ -2,4 +2,4 @@
 * R&D staff are working on Tanzu solutions using Cosign, and we are spearheading Cosign integration into [kpack](https://github.com/pivotal/kpack), [Carvel](https://carvel.dev/), and [Harbor](https://goharbor.io/).
 
 
-Copyright 2021 VMware, Inc.
+Copyright 2021 VMware, Inc. 
